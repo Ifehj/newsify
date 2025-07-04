@@ -1,0 +1,2 @@
+# newsify
+News / Blog app
